@@ -14,3 +14,5 @@ Fern ignored since March (185/151), cactus thrives on neglect (64), "out of offi
 
 ## Status
 Built and verified locally; bundle + check results to be recorded below after the first bundle/check run.
+
+- v2 re-bundle 25 Nov (round 29): from original builder session (65 turns) + muse-usage row; 1 usage row attached; re-check 14/0; resubmit after v1 entries discarded server-side (5 made, 0 kept).
